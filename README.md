@@ -5,7 +5,7 @@
     • Introducción Git
         ◦ Comandos Básicos en GitHub
     • Tipos de Variables
-        ◦ String, Int, Float, Boolen
+        ◦ String, Int, Float, Boolean
         ◦ Listas, Tuplas, Matrices, Diccionarios
     • Funciones
         ◦ Creación y ejecución funciones
