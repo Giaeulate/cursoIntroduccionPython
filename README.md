@@ -1,7 +1,7 @@
 # cursoIntroduccionPython
-Curso de programación con Python
-    • Introducción	
-        ◦ Introducción a Python
+## Curso de programación con Python
+##  • Introducción	
+##        ◦ Introducción a Python
         ◦ Aplicaciones 
     • Introducción Git
         ◦ Comandos Básicos en GitHub
