@@ -11,3 +11,19 @@
     • Introducción Matplolib
     • Convertir TXT a EXCEL
     • Cálculo ETP
+
+
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSd8LvOma-Vo2gmXRW5CNJZFZhPXzcDEHVWsA&usqp=CAU)
+
+
+
+
+
+
+
+
+
+
+
+
+
